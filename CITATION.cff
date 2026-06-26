@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated article."
+title: "LAA-SFCI AF Stratifier: A TEE-Based Left Atrial Appendage Structure–Function Coupling Calculator"
+abstract: >-
+  An offline, single-page web tool that computes candidate left atrial appendage
+  structure–function coupling indices (LAA-SFCIs) from transesophageal echocardiography
+  (TEE)-derived parameters and displays an auxiliary atrial fibrillation disease-stage
+  profile based on study-derived parameter patterns. For research and educational use only;
+  not a clinical diagnostic tool.
+type: software
+version: "1.0.0"
+date-released: "2026-06-26"
+license: MIT
+authors:
+  - family-names: Zhu
+    given-names: Jianbo
+    affiliation: "Department of Echocardiography, Shaoxing People's Hospital, Shaoxing, China"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Liu
+    given-names: Xiatian
+    affiliation: "Department of Echocardiography, Shaoxing People's Hospital, Shaoxing, China"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - atrial fibrillation
+  - transesophageal echocardiography
+  - left atrial appendage
+  - speckle-tracking echocardiography
+  - global longitudinal strain
+  - structure-function coupling
+  - risk stratification
+# Replace with the DOI minted by Zenodo on your first GitHub release:
+doi: "10.5281/zenodo.XXXXXXX"
+repository-code: "https://github.com/<your-username>/laa-sfci-tool"
+preferred-citation:
+  type: article
+  title: "A Transesophageal Echocardiography-Derived Left Atrial Appendage Structure–Function Coupling Index Across the Atrial Fibrillation Disease Continuum"
+  authors:
+    - family-names: Zhu
+      given-names: Jianbo
+    - family-names: Liu
+      given-names: Xiatian
+  year: 2026
+  journal: "(to be updated on acceptance)"
+  # doi: "10.xxxx/xxxxx"
