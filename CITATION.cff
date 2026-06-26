@@ -29,8 +29,8 @@ keywords:
   - structure-function coupling
   - risk stratification
 # Replace with the DOI minted by Zenodo on your first GitHub release:
-doi: "10.5281/zenodo.XXXXXXX"
-repository-code: "https://github.com/<your-username>/laa-sfci-tool"
+doi: "10.5281/zenodo.20899949"
+repository-code: "https://github.com/zzzzz11zz776/LAA-SFCI-tool"
 preferred-citation:
   type: article
   title: "A Transesophageal Echocardiography-Derived Left Atrial Appendage Structure–Function Coupling Index Across the Atrial Fibrillation Disease Continuum"

@@ -1,6 +1,6 @@
 # LAA-SFCI AF Stratifier
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20899949.svg)](https://doi.org/10.5281/zenodo.20899949)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 A TEE-based Left Atrial Appendage **Structure–Function Coupling** calculator: an offline,
@@ -66,7 +66,7 @@ Because the tool is a single self-contained `index.html`, you can serve it for f
 1. Push this repository to GitHub.
 2. Go to **Settings → Pages → Build and deployment**.
 3. Set **Source = Deploy from a branch**, **Branch = `main` / root**, then **Save**.
-4. After a minute the tool will be live at `https://<your-username>.github.io/<repo-name>/`.
+4. After a minute the tool will be live at `https://zzzzz11zz776.github.io/LAA-SFCI-tool/`.
 
 ---
 
@@ -74,7 +74,7 @@ Because the tool is a single self-contained `index.html`, you can serve it for f
 
 If you use this tool, please cite both the article and this software archive. See
 [`CITATION.cff`](./CITATION.cff). The archived version has a permanent DOI:
-**10.5281/zenodo.XXXXXXX** (replace with the DOI minted on your first GitHub release).
+**10.5281/zenodo.20899949**.
 
 ---
 
