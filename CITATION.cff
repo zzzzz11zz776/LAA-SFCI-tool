@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite both the software and the associated article."
-title: "LAA-SFCI AF Stratifier: A TEE-Based Left Atrial Appendage Structure–Function Coupling Calculator"
+title: "LAA-SFCI Calculator: A TEE-Based Left Atrial Appendage Structure–Function Coupling Tool"
 abstract: >-
   An offline, single-page web tool that computes candidate left atrial appendage
   structure–function coupling indices (LAA-SFCIs) from transesophageal echocardiography
