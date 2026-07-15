@@ -1,0 +1,29 @@
+{
+  "title": "LAA-SFCI Calculator: A TEE-Based Left Atrial Appendage Structure-Function Coupling Tool",
+  "description": "An offline, single-page web tool that computes candidate left atrial appendage structure-function coupling indices (LAA-SFCIs) from transesophageal echocardiography (TEE)-derived parameters and displays an auxiliary atrial fibrillation (AF) disease-stage profile based on study-derived parameter patterns. The principal index is LAA-VI/LAA-GLS. For research and educational use only; it is not a medical device and has not been validated for clinical diagnosis or treatment decisions. Displayed stage values are parameter-profile similarity scores from a single-center, cross-sectional study, not individual diagnostic probabilities.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "atrial fibrillation",
+    "transesophageal echocardiography",
+    "left atrial appendage",
+    "speckle-tracking echocardiography",
+    "global longitudinal strain",
+    "structure-function coupling",
+    "risk stratification"
+  ],
+  "creators": [
+    {
+      "name": "Zhu, Jianbo",
+      "affiliation": "Department of Echocardiography, Shaoxing People's Hospital, Shaoxing, China"
+    },
+    {
+      "name": "Liu, Xiatian",
+      "affiliation": "Department of Echocardiography, Shaoxing People's Hospital, Shaoxing, China"
+    }
+  ],
+  "notes": "Software archive accompanying the article 'A Transesophageal Echocardiography-Derived Left Atrial Appendage Structure-Function Coupling Index Across the Atrial Fibrillation Disease Continuum' (under review). Add the related-article DOI as a related identifier once available."
+}
